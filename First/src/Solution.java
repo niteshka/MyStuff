@@ -9,7 +9,8 @@ public class Solution {
 	public int points[][];
 	public int numberOfPoints;
 	public int matrix[][];
-	
+
+// input Method	
 	public void input(){
 		Scanner in = new Scanner(System.in);
 		numberOfPoints = in.nextInt();
