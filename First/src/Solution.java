@@ -1,6 +1,6 @@
-
 import java.util.Scanner;
 
+//Meeting Point Problem
 public class Solution {
 
 	/**
